@@ -1,8 +1,8 @@
 import urllib.request
 import json
 
-CLIENT_ID = "여기에_클라이언트_ID_입력"
-CLIENT_SECRET = "여기에_클라이언트_시크릿_입력"
+CLIENT_ID = "jmsxCwsvkHEPgCUS6VPq"
+CLIENT_SECRET = "twXdsKrnsq"
 
 def nblog(search):
     return _naver_search(search, "blog")
